@@ -81,7 +81,7 @@ body{
 .card-numbers{
     font-size: 3.2rem;
     font-weight: 600;
-    color: var(--Slightly-white);
+    color: var(--white);
 }
 
 .feature-text{
