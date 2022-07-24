@@ -96,7 +96,7 @@ body{
     rgba(112, 36, 160, 0.35),
     rgba(112, 40, 157, 0.35)
     ),
-    url("/images/image-header-desktop.jpg");
+    url("images/image-header-desktop.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -140,7 +140,7 @@ footer a{
             rgba(112, 36, 160, 0.35),
             rgba(112, 40, 157, 0.35)
             ),
-            url("/images/image-header-mobile.jpg");
+            url("images/image-header-mobile.jpg");
         background-size: cover;
         background-position: center;
         
